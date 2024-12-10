@@ -58,17 +58,17 @@ def add_message(state: ComplexState, message: str, is_human: bool = True) -> Com
         messages=state["messages"] + [new_message]
     )
     ]
-    # What is Cloud Orchestration? Automating and Managing Cloud Infrastructure
-    # # # process of automating tasks to improve accuracy and consistency
+    # What is Cloud Orchestration?
+    Automating and Managing Cloud Infrastructure process of automating tasks to improve accuracy and consistency
     The cloud has evolved from a supplementary tool to an indispensable foundation for successful businesses. Implementing a cloud infrastructure involves provisioning and configuring 
-     individual cloud resources, such as virtual machines, storage, and networking components, ensuring consistent configurations across multiple environments, and scaling resources to 
-     meet fluctuating demands. These processes are time-consuming and error-prone when done manually.
+    individual cloud resources, such as virtual machines, storage, and networking components, ensuring consistent configurations across multiple environments, and scaling resources to 
+    meet fluctuating demands. These processes are time-consuming and error-prone when done manually.
 
    1. Cloud orchestration automates cloud resources’ deployment, management, and scaling across multiple platforms.
    2. Cloud orchestration tools enable efficient resource allocation, consistent configurations, and improved agility.
    3. DigitalOcean offers the API, CLI, App Platform, and managed Kubernetes (DOKS) service to simplify and orchestrate business cloud operations.
 
-# What is cloud orchestration?What is cloud orchestration?
+# What is cloud orchestration?
 Cloud orchestration is a comprehensive approach to automating and managing cloud resources across various cloud platforms and services. It enables organizations to coordinate their cloud resources’ deployment, management, and scaling.
 
 Cloud orchestration aims to streamline cloud operations, reduce complexity and costs, improve efficiency, and deliver a seamless experience across the whole cloud domain. By implementing cloud orchestration solutions, your business can optimize resource utilization, improve security, and deliver services efficiently to their end-users and business users.
